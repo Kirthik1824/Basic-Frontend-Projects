@@ -1,0 +1,1 @@
+This is a basic weight converter project to learn the basics of DOM. I am using bootstrap CSS, and the DOM code is included in the index file itself. Project is inspired from the youtube channel - Traversy Media.
